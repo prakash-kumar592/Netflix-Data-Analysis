@@ -124,9 +124,8 @@
 
 # ```bash
 
-# git clone https://github.com/aryangiri12/netflix-insights-sql-python-powerbi.git
-
-# cd netflix-insights-sql-python-powerbi
+# git clone https://github.com/prakash-kumar592/Netflix-Data-Analysis-.git
+# cd Netflix-Data-Analysis-
 
 # ```
 
@@ -259,8 +258,8 @@ Open `powerbi/netflix_dashboard.pbix` in Power BI Desktop.
 
 ## 🙋‍♂️ Author
 
-**Aryan Giri**
-- GitHub: [@aryangiri12](https://github.com/aryangiri12)
+**Prakash**
+- GitHub: [@prakash-kumar592](https://github.com/prakash-kumar592)
 
 ---
 
